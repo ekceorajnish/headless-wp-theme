@@ -1,12 +1,12 @@
 # Headless WP Theme
 
-Headless WP is a free, lightweight classic WordPress theme for teams using WordPress as a CMS.
+Headless WP is a free-to-use, lightweight classic WordPress theme for teams using WordPress as a CMS.
 
 The theme is intentionally small: readable typography, standard WordPress templates, accessibility basics, and no remote assets.
 
 ## Features
 
-- Free to use under GPLv2 or later
+- Free to use under the MIT license
 - Lightweight classic WordPress theme
 - Standard content rendering for posts and pages
 - Accessible skip link and visible keyboard focus styles
@@ -29,7 +29,7 @@ Current release: `1.0.0`
 
 ## Contributing
 
-Contributions are welcome. Please open an issue first for larger changes, or submit a pull request with a clear explanation.
+Welcome contributors. Contributions are welcome from anyone who wants to improve a lightweight WordPress theme. Please open an issue first for larger changes, or submit a pull request with a clear explanation.
 
 Good contributions include:
 
@@ -41,4 +41,4 @@ Good contributions include:
 
 ## License
 
-Headless WP Theme is free software released under the GNU General Public License v2.0 or later.
+Headless WP Theme is free software released under the MIT License.

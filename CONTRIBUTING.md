@@ -1,6 +1,6 @@
 # Contributing
 
-Thank you for helping improve Headless WP Theme.
+Welcome contributors. Thank you for helping improve Headless WP Theme.
 
 ## How to contribute
 

@@ -6,14 +6,14 @@ Version: 1.0.0
 Requires at least: 6.0
 Tested up to: 6.5
 Requires PHP: 7.4
-License: GNU General Public License v2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+License: MIT
+License URI: https://opensource.org/licenses/MIT
 Text Domain: headless-wp-theme
 */
 
 /*
 Headless WP WordPress Theme, Copyright 2026 Headless WP Contributors
-Headless WP is distributed under the terms of the GNU GPL.
+Headless WP is distributed under the terms of the MIT License.
 */
 
 body{margin:0;background:#fbfbf8;color:#17211c;font:16px/1.6 system-ui,-apple-system,Segoe UI,sans-serif}

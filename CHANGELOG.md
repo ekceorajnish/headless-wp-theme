@@ -6,4 +6,4 @@
 - Added lightweight classic WordPress theme structure.
 - Added accessible skip link and keyboard focus styles.
 - Added standard index, singular, 404, comments, and template-part files.
-- Added documentation, contribution guide, and GPL license notice.
+- Added documentation, contribution guide, and MIT license notice.
