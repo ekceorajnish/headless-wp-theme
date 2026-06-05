@@ -6,15 +6,19 @@ Requires PHP: 7.4
 License: MIT
 License URI: https://opensource.org/licenses/MIT
 
-A minimal, accessible, lightweight classic WordPress theme for headless CMS publishing.
+A free, minimal, accessible, lightweight classic WordPress theme for headless CMS publishing.
 
 == Description ==
 
-Headless WP is a free-to-use classic WordPress theme for teams that use WordPress as a CMS. It keeps the public fallback page clean while preserving standard WordPress template behavior, accessibility basics, and translation-ready strings.
+Headless WP is a free-to-use headless CMS WordPress theme for teams that use WordPress as a content management system. It is useful for headless WordPress projects, REST API CMS setups, Jamstack frontends, Next.js frontends, static site frontends, and custom frontend apps that still need a clean WordPress fallback theme.
+
+If you need a free headless WordPress starter theme, a lightweight WordPress CMS theme, or a simple theme for a headless WP backend, Headless WP is built for that use case.
 
 == Features ==
 
 * Free to use under the MIT license
+* Built for headless CMS WordPress projects
+* Good fallback theme for a headless WordPress backend
 * Lightweight classic theme structure
 * Accessible skip link and keyboard focus styles
 * Standard WordPress content templates
@@ -23,6 +27,10 @@ Headless WP is a free-to-use classic WordPress theme for teams that use WordPres
 * Responsive embeds support
 * No bundled third-party resources
 * No tracking and no remote resources
+
+== Keywords ==
+
+headless CMS WordPress theme, headless WordPress theme, free WordPress CMS theme, lightweight WordPress theme, headless WP starter theme, WordPress REST API CMS theme, open source WordPress theme, MIT WordPress theme.
 
 == Privacy ==
 
