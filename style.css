@@ -1,0 +1,33 @@
+/*
+Theme Name: Headless WP
+Author: Headless WP Contributors
+Description: A minimal, accessible, lightweight classic WordPress theme for headless CMS publishing.
+Version: 1.0.0
+Requires at least: 6.0
+Tested up to: 6.5
+Requires PHP: 7.4
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: headless-wp-theme
+*/
+
+/*
+Headless WP WordPress Theme, Copyright 2026 Headless WP Contributors
+Headless WP is distributed under the terms of the GNU GPL.
+*/
+
+body{margin:0;background:#fbfbf8;color:#17211c;font:16px/1.6 system-ui,-apple-system,Segoe UI,sans-serif}
+a{color:#b5142b}
+a:focus,button:focus,input:focus,textarea:focus,select:focus{outline:3px solid #111;outline-offset:3px}
+.skip-link{left:-999px;position:absolute;top:auto}
+.skip-link:focus{background:#fff;left:16px;padding:8px 12px;top:16px;z-index:99}
+.wrap{max-width:720px;margin:auto;padding:56px 20px}
+.site-header{margin-bottom:36px}
+.site-title{margin:0;font-size:clamp(38px,9vw,76px);font-weight:900;line-height:.95;color:#d21f3c}
+.site-description{margin:12px 0 0;color:#111}
+.entry{margin:0 0 44px}
+.entry-title{margin:0 0 12px;font-size:clamp(28px,5vw,44px);line-height:1.1}
+.entry-content p{margin:0 0 20px;color:#111}
+.meta,.site-footer,.nav-links{color:#555}
+.login{display:inline-block;border:1px solid #17211c;color:#111;margin-top:12px;padding:8px 14px;text-decoration:none}
+.page-links{margin-top:24px}
